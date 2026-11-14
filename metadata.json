@@ -1,0 +1,6 @@
+{
+  "name": "Solino · Scuola di Spartito",
+  "description": "Gioco interattivo di lettura musicale per la classe terza della scuola primaria: note sul pentagramma, ritmi, consigli di Solino e premi per imparare da soli o con i genitori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
